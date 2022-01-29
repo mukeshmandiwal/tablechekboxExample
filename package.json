@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/checkbox": "^0.5.9",
     "react": "17.0.2",
-    "react-native": "0.67.1"
+    "react-native": "0.67.1",
+    "react-native-table-component": "^1.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
